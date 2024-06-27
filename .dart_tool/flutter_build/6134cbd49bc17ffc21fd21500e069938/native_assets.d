@@ -1,0 +1,1 @@
+ D:\\vetan_panjika\\vetan_panjika\\.dart_tool\\flutter_build\\6134cbd49bc17ffc21fd21500e069938\\native_assets.yaml: 

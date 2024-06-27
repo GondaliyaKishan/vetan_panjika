@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027905802331",
+    "project_id": "officemanager-136bf",
+    "storage_bucket": "officemanager-136bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027905802331:android:f086e6cedc5dddc4afaf7e",
+        "android_client_info": {
+          "package_name": "com.creadent.officemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027905802331-i3dm2s9e965paerqct7cdg87hiu6a42g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbW3pNQi6TP4-UrHhnhAWp55su2zMxCyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027905802331-i3dm2s9e965paerqct7cdg87hiu6a42g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
